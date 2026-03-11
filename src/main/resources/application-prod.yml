@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://database-1.cfsi2w0iou42.ap-south-1.rds.amazonaws.com:5432/DemoDB
+    username: postgres
+    password: Pass#1234
